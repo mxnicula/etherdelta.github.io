@@ -9,7 +9,7 @@
     { "addr": "0x2136bbba2edca21afdddee838fff19ea70d10f03", "info": "Deployed 08/03/2016 -- OLD, DO NOT USE" },
     { "addr": "0xc6b330df38d6ef288c953f1f2835723531073ce2", "info": "Deployed 07/08/2016 -- OLD, DO NOT USE" }
   ],
-  "ethTestnet": false,
+  "ethTestnet": true,
   "ethChainId": 1,
   "ethProvider": "http://localhost:8545",
   "ethGasPrice": 4000000000,
